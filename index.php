@@ -10,20 +10,20 @@
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,600" type="text/css" rel="stylesheet">
     <link href="main.css" rel="stylesheet">
 	
-    <meta name="salesforce-community" content="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>">
-    <meta name="salesforce-client-id" content="<?php echo getenv('SALESFORCE_CLIENT_ID');?>">
-    <meta name="salesforce-redirect-uri" content="https://<?php echo getenv('SALESFORCE_HEROKUAPP_URL');?>/_callback.php">
-    <meta name="salesforce-mode" content="<?php echo getenv('SALESFORCE_MODE');?>">
+    <meta name="salesforce-community" content="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded">
+    <meta name="salesforce-client-id" content="3MVG929eOx29turELZOjR8Q1Vf.rvBlC8Z3817KHKmHy3IIcgeNI6W4lKNJ30rIcno6iJ_ORleNhZJEx.nV2.">
+    <meta name="salesforce-redirect-uri" content="https://embedded-4rb0dfpn.b4a.run/_callback.php">
+    <meta name="salesforce-mode" content="modal">
     <meta name="salesforce-namespace" content="<?php echo getenv('SALESFORCE_NAMESPACE');?>">
     <meta name="salesforce-target" content="#sign-in-link">
     <meta name="salesforce-save-access-token" content="true">
-    <meta name="salesforce-forgot-password-enabled" content="<?php echo getenv('SALESFORCE_FORGOT_PASSWORD_ENABLED');?>">
-    <meta name="salesforce-self-register-enabled" content="<?php echo getenv('SALESFORCE_SELF_REGISTER_ENABLED');?>">
+    <meta name="salesforce-forgot-password-enabled" content="true">
+    <meta name="salesforce-self-register-enabled" content="false">
     <meta name="salesforce-login-handler" content="onLogin">
     <meta name="salesforce-logout-handler" content="onLogout">
     <meta name="salesforce-mask-redirects" content="<?php echo getenv('SALESFORCE_MASK_REDIRECTS');?>">
-	<link href="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" />
-    <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
+	<link href="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded">/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" />
+    <script src="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded">/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
   </head>
   
   <body>

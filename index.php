@@ -27,6 +27,7 @@
   </head>
   
   <body>
+	  <div id="salesforce-login"></div>
   	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
     <header>
       <div class="masthead-elements-row-1">

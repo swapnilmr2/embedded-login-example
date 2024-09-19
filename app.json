@@ -6,9 +6,9 @@
   "logo": "https://www.salesforceidentity.info/img/launcher.png",
   "keywords": ["salesforce", "heroku", "identity", "loginwidget"],
   "env":{
-	  "SALESFORCE_COMMUNITY_URL":"COMMUNITY_URL_HERE",
-	  "SALESFORCE_CLIENT_ID":"CONNECTED_APP_KEY_HERE",
-	  "SALESFORCE_HEROKUAPP_URL":"HEROKUAPP_URL_HERE",
+	  "SALESFORCE_COMMUNITY_URL":"https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded",
+	  "SALESFORCE_CLIENT_ID":"3MVG929eOx29turELZOjR8Q1Vf.rvBlC8Z3817KHKmHy3IIcgeNI6W4lKNJ30rIcno6iJ_ORleNhZJEx.nV2.",
+	  "SALESFORCE_HEROKUAPP_URL":"https://embedded-4rb0dfpn.b4a.run",
 	  "SALESFORCE_MODE":"modal",
 	  "SALESFORCE_FORGOT_PASSWORD_ENABLED":"true",
 	  "SALESFORCE_SELF_REGISTER_ENABLED":"false",

@@ -22,8 +22,8 @@
     <meta name="salesforce-login-handler" content="onLogin">
     <meta name="salesforce-logout-handler" content="onLogout">
     <meta name="salesforce-mask-redirects" content="<?php echo getenv('SALESFORCE_MASK_REDIRECTS');?>">
-	<link href="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded">/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" />
-    <script src="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded">/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
+	<link href="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" />
+    <script src="https://gmailcomcicd2-dev-ed.develop.my.site.com/embedded/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
   </head>
   
   <body>
